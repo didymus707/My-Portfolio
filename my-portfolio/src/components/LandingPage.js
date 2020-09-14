@@ -17,13 +17,13 @@ class LandingPage extends Component {
               <hr/>
               <p>HTML/CSS | Bootstrap | Javascript | Ruby | Ruby on Rails | React & Redux</p>
               <div className="social-links">
-                <a href="http://google.com" rel="noopenenr noreferrer" target="_blank">
+                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
                   <i className="fa fa-linkedin-square" aria-hidden="true"/>
                 </a>
-                <a href="http://google.com" rel="noopenenr noreferrer" target="_blank">
+                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
                   <i className="fa fa-github-square" aria-hidden="true"/>
                 </a>
-                <a href="http://google.com" rel="noopenenr noreferrer" target="_blank">
+                <a href="http://google.com" rel="noopener noreferrer" target="_blank">
                   <i className="fa fa-twitter-square" aria-hidden="true"/>
                 </a>
               </div>
