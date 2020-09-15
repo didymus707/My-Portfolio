@@ -16,6 +16,16 @@
   height: 100%;
 }
 
+/* resume page */
+
+.resume-right-col {
+  background: #27221f;
+  color: white;
+  padding: 2em;
+}
+
+/* resume page */
+
 /* projects page */
 
 .projects-grid {
