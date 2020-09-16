@@ -21,21 +21,21 @@ class Contact extends Component {
             <div className="contact-list">
               <List>
                 <ListItem>
-                  <ListItemContent style={{display: 'flex', alignItems: 'center', fontSize: '30px', fontFamily: 'Anton'}}>
-                    <i className="fa fa-envelope-square" aria-hidden="true" />
+                  <i className="fa fa-envelope-square" aria-hidden="true" />
+                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     didymus7007@gmail.com
                   </ListItemContent>
                 </ListItem>
                 <ListItem>
-                  <ListItemContent style={{display: 'flex', alignItems: 'center', fontSize: '30px', fontFamily: 'Anton'}}>
-                    <i className="fa fa-linkedin-square" aria-hidden="true" />
+                  <i className="fa fa-linkedin-square" aria-hidden="true" />
+                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     adewale-thomas-orotayo
                   </ListItemContent>
                 </ListItem>
                 <ListItem>
-                  <ListItemContent style={{display: 'flex', alignItems: 'center', fontSize: '30px', fontFamily: 'Anton'}}>
-                    <i className="fa fa-phone-square" aria-hidden="true" />
-                    +234-8031170480
+                  <i className="fa fa-phone-square" aria-hidden="true" />
+                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
+                    +234-803-117-0480
                   </ListItemContent>
                 </ListItem>
               </List>

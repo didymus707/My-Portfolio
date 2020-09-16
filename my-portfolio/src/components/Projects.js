@@ -30,7 +30,7 @@ class Projects extends Component {
               <Button colored>Github</Button>
               <Button colored>Live Demo</Button>
             </CardActions>
-            <CardMenu style={{color: '#fff'}}>
+            <CardMenu style={{color: '#fffnpm '}}>
               <IconButton name="share" />
             </CardMenu>
           </Card>
@@ -42,7 +42,7 @@ class Projects extends Component {
                 <Button colored>Github</Button>
                 <Button colored>Live Demo</Button>
               </CardActions>
-              <CardMenu style={{color: '#fff'}}>
+              <CardMenu style={{color: '#fffnpm '}}>
                 <IconButton name="share" />
               </CardMenu>
             </Card>
@@ -58,7 +58,7 @@ class Projects extends Component {
               <Button colored>Github</Button>
               <Button colored>Live Demo</Button>
             </CardActions>
-            <CardMenu style={{color: '#fff'}}>
+            <CardMenu style={{color: '#fffnpm '}}>
               <IconButton name="share" />
             </CardMenu>
           </Card>
@@ -70,7 +70,7 @@ class Projects extends Component {
               <Button colored>Github</Button>
               <Button colored>Live Demo</Button>
             </CardActions>
-            <CardMenu style={{color: '#fff'}}>
+            <CardMenu style={{color: '#fffnpm '}}>
               <IconButton name="share" />
             </CardMenu>
           </Card>
@@ -82,7 +82,7 @@ class Projects extends Component {
                 <Button colored>Github</Button>
                 <Button colored>Live Demo</Button>
               </CardActions>
-              <CardMenu style={{color: '#fff'}}>
+              <CardMenu style={{color: '#fffnpm '}}>
                 <IconButton name="share" />
               </CardMenu>
             </Card>
