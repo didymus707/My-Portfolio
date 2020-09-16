@@ -19,7 +19,9 @@ class Projects extends Component {
             <CardTitle style={{color: '#717171', height: '176px', background: `url(${Todo}) center/cover`}}>Todo</CardTitle>
             <CardText>Todos</CardText>
             <CardActions border style={{display: 'flex', justifyContent: 'center'}}>
-              <Button colored>Github</Button>
+              <Button colored>
+              <Link style={{textDecoration: 'none', color: '#6C58BE'}} to='https://github.com/didymus707/todos'>Github</Link>
+              </Button>
               <Button colored>Live Demo</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
