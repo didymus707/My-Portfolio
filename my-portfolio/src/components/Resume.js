@@ -55,7 +55,7 @@ class Resume extends Component {
               endYear='2015/2016'
               schoolName='Ekiti State University'
               degree='BSc. Biochemistry'
-              schoolDescription='Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto fuga dolorum doloremque unde vitae amet temporibus atque neque et illo quidem officia quisquam, voluptate molestias nesciunt quo sunt odit reprehenderit!Illum voluptatibus quaerat asperiores possimus facilis vel inventore fugit ad optio mollitia sint itaque quo incidunt esse in vero deleniti numquam, doloribus'
+              schoolDescription='Established in 1982, Ekiti State University, Ado Ekiti is a non-profit public higher-education institution located in the suburban setting of the medium city of Ado-Ekiti (population range of 250,000-499,999 inhabitants), Ekiti.'
             />
             <hr style={{borderTop: '3px solid #e22947'}}/>
             <h2>Experience</h2>
